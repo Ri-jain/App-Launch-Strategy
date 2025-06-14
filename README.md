@@ -37,10 +37,10 @@ Both datasets focus on apps available in the U.S. and include features such as:
 
 ## 🔧 Key Tasks Performed
 
-- ✅ Cleaned and standardized multilingual and mismatched app category fields using **LLMs in Python**
-- ✅ Removed outliers in ratings, installs, and price fields
-- ✅ Mapped features across platforms for consistent comparison
-- ✅ Built **interactive dashboards in Tableau** to visualize category trends, pricing performance, and platform behavior
+-  Cleaned and standardized multilingual and mismatched app category fields using **LLMs in Python**
+-  Removed outliers in ratings, installs, and price fields
+-  Mapped features across platforms for consistent comparison
+-  Built **interactive dashboards in Tableau** to visualize category trends, pricing performance, and platform behavior
 
 ---
 
